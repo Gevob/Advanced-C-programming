@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1611429261 source:c:\users\giuseppe\desktop\polito io\apa\lab12\e01\quotazioni.c
+	<stdio.h>
+	<stdlib.h>
+	"quotazioni.h"
+
+1611429241 source:c:\users\giuseppe\desktop\polito io\apa\lab12\e01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"titoli.h"
+	"quotazioni.h"
+
+1611429241 c:\users\giuseppe\desktop\polito io\apa\lab12\e01\titoli.h
+	<stdio.h>
+	<stdlib.h>
+	"quotazioni.h"
+
+1611429241 c:\users\giuseppe\desktop\polito io\apa\lab12\e01\quotazioni.h
+	<stdio.h>
+	<stdlib.h>
+
+1611429241 source:c:\users\giuseppe\desktop\polito io\apa\lab12\e01\titoli.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"titoli.h"
+
