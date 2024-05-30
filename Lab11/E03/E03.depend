@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1610629111 source:c:\users\giuseppe\desktop\polito io\apa\lab11\e03\stlabel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STlabel.h"
+
+1610581971 c:\users\giuseppe\desktop\polito io\apa\lab11\e03\stlabel.h
+	<stdio.h>
+	<stdlib.h>
+
+1610629846 source:c:\users\giuseppe\desktop\polito io\apa\lab11\e03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	"STlabel.h"
+
+1610630205 c:\users\giuseppe\desktop\polito io\apa\lab11\e03\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1610630205 source:c:\users\giuseppe\desktop\polito io\apa\lab11\e03\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	"STlabel.h"
+

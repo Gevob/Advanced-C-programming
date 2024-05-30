@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1607899241 source:c:\users\giuseppe\desktop\polito io\apa\lab10\e03\gdr.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"pgList.h"
+	"invArray.h"
+	"pg.h"
+
+1575564303 c:\users\giuseppe\desktop\polito io\apa\lab10\e03\pglist.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"pg.h"
+
+1607710106 c:\users\giuseppe\desktop\polito io\apa\lab10\e03\pg.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"equipArray.h"
+
+1607874274 c:\users\giuseppe\desktop\polito io\apa\lab10\e03\equiparray.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"invArray.h"
+
+1607876781 c:\users\giuseppe\desktop\polito io\apa\lab10\e03\invarray.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"inv.h"
+
+1575562610 c:\users\giuseppe\desktop\polito io\apa\lab10\e03\inv.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1607900949 source:c:\users\giuseppe\desktop\polito io\apa\lab10\e03\inv.c
+	<stdio.h>
+	<stdlib.h>
+	"inv.h"
+
+1607900460 source:c:\users\giuseppe\desktop\polito io\apa\lab10\e03\invarray.c
+	<stdio.h>
+	<stdlib.h>
+	"invArray.h"
+
+1607901058 source:c:\users\giuseppe\desktop\polito io\apa\lab10\e03\equiparray.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"equipArray.h"
+
+1607901709 source:c:\users\giuseppe\desktop\polito io\apa\lab10\e03\pglist.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"pgList.h"
+
+1607899819 source:c:\users\giuseppe\desktop\polito io\apa\lab10\e03\pg.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"pg.h"
+
