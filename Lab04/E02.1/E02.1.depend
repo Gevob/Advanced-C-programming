@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603972125 source:c:\users\giuseppe\desktop\polito io\apa\lab04\e02.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
